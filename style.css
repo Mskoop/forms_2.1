@@ -13,7 +13,8 @@ body {
     width: 35vw;
     display: flex;
     flex-direction: column;
-    margin: auto;
+    margin-top: 10vh; 
+    margin-inline: auto;
     align-items: center;
     gap: 10px;
     font-size: 0.8rem;
